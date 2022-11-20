@@ -15,4 +15,4 @@ To toggle, click on the extension icon.
 * Download this repo as a ZIP file and unpack.
 * In the browser go to `chrome://extensions`.
 * Enable Developer Mode.
-* Click `Load unpacked` and select `yt-video-dark-mode`. Please remember to not delete this folder afterwards.
+* Click `Load unpacked` and select `yt-video-dark-mode-main`. Please remember to not delete this folder afterwards.
